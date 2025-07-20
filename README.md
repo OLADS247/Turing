@@ -1,5 +1,4 @@
-🌐 Turing
-Turing is a clean and responsive website built using HTML5 and CSS3.
+🌐 Turing is a clean and responsive website built using HTML5 and CSS3.
 It showcases a modern and professional web presence suitable for personal brands, small businesses, or demo projects.
 
 🚀 Live Demo
